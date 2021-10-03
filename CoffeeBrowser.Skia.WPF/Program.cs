@@ -1,0 +1,3 @@
+namespace CoffeeBrowser.Skia.Gtk
+{
+}
